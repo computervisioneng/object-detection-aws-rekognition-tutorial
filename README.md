@@ -1,4 +1,4 @@
-#  object-detector-aws-reko
+#  object-detection-aws-rekognition-tutorial
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=">
