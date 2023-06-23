@@ -1,5 +1,12 @@
 #  object-detector-aws-reko
 
-Object detection with AWS Rekognition !
+<p align="center">
+<a href="https://www.youtube.com/watch?v=">
+    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/aws_reko_zebra.jpg" alt="Watch the video">
+    </br>Watch on YouTube: AWS Rekognition tutorial | Object detection
+</a>
+</p>
 
-[![Watch the video](https://img.youtube.com/vi/-r4EWjU7G6I/0.jpg)](https://www.youtube.com/watch?v=-r4EWjU7G6I)
+## data
+
+You can download the data I use in this tutorial [here](https://drive.google.com/file/d/1lDOKmjPsdZrFBH54sUalGaS4DRe8XfH8/view?usp=sharing).
